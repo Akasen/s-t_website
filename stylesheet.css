@@ -10,3 +10,19 @@ h1 {
 p {
     font-family: 'Dosis', sans-serif;
 }
+
+.containerGallery {
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+.carousel-item > img{
+    top: 0;
+    left: 0;
+    min-width: 100%;
+
+    min-height: 100%;
+    max-height: 500px;
+    max-width: none;
+}
+
